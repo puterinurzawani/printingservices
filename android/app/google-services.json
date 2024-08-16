@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976251627698",
+    "project_id": "printingservice-a8131",
+    "storage_bucket": "printingservice-a8131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976251627698:android:20853f0cd75fa6e33441ab",
+        "android_client_info": {
+          "package_name": "com.example.printingservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976251627698-tgm2rscd71if8hna4j0rrrbfn8r77pk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkM_Za8NE5gnjeSrBihWPu2Uy7kq5Idt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976251627698-tgm2rscd71if8hna4j0rrrbfn8r77pk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
